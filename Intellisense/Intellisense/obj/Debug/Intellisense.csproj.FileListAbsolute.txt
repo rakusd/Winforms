@@ -1,0 +1,10 @@
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 1\MyWinForms\MyWinForms\obj\Debug\MyWinForms.Intellisense.resources
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 1\MyWinForms\MyWinForms\obj\Debug\MyWinForms.Form2.resources
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 1\MyWinForms\MyWinForms\obj\Debug\MyWinForms.Properties.Resources.resources
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 1\MyWinForms\MyWinForms\obj\Debug\Intellisense.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 1\MyWinForms\MyWinForms\obj\Debug\Intellisense.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 1\MyWinForms\MyWinForms\obj\Debug\MyWinForms.exe
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 1\MyWinForms\MyWinForms\obj\Debug\MyWinForms.pdb
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 1\MyWinForms\MyWinForms\bin\Debug\MyWinForms.exe.config
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 1\MyWinForms\MyWinForms\bin\Debug\MyWinForms.exe
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 1\MyWinForms\MyWinForms\bin\Debug\MyWinForms.pdb
