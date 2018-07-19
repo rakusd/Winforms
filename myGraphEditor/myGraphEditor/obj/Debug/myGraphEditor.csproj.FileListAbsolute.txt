@@ -1,0 +1,16 @@
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\bin\Debug\myGraphEditor.exe.config
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\bin\Debug\myGraphEditor.exe
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\bin\Debug\myGraphEditor.pdb
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\bin\Debug\en-US\myGraphEditor.resources.dll
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\bin\Debug\pl-PL\myGraphEditor.resources.dll
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\myGraphEditor.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\myGraphEditor.Form1.resources
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\myGraphEditor.Properties.Resources.resources
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\myGraphEditor.Form1.en-US.resources
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\myGraphEditor.Form1.pl-PL.resources
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\myGraphEditor.csproj.GenerateResource.Cache
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\myGraphEditor.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\en-US\myGraphEditor.resources.dll
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\pl-PL\myGraphEditor.resources.dll
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\myGraphEditor.exe
+C:\Users\Damian\Desktop\Uczelnia\Programownanie w środowisku graficznym\Laboratoria\WINFORMS 2\301_rakusd_3B\myGraphEditor\obj\Debug\myGraphEditor.pdb
