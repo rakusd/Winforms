@@ -1,0 +1,18 @@
+IntellisenseManual
+  - Clicking File->Load loads word dictionary for Intellisense (You can also drag&drop .txt files to load them as dictionary)
+  - Clicking File->Export saves current word dictionary
+  - Add new word button adds new word to the dictionary
+  - Sort button sorts words in dictionary in ascending or descending order
+  - When word table is visible:
+    - Pressing arrow keys changes currently selected word for completion
+    - Pressing TAB key completes the word currently written as the one highlighted
+  - Pressing RMB on word in textbox shows context menu that gives user option to:
+    - add word to dictionary (if it is not in dictionary yet)
+    - delete word from dictionary
+  - ToolStrip buttons (in this order) enable user to:
+    - Make font in textbox bold
+    - Make font in textbox italic
+    - Make font in textbox underlined
+    - Change color of font
+    - Change color of background
+    - Change type of font
