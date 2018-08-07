@@ -1,0 +1,12 @@
+GraphEditorManual
+  - Pressing LMB adds new vertice on working space, if no vertice is currently selected and new vertice will not intersect with any other vertices
+  - Pressing RMB on vertice selects it enabling user to:
+      - make an edge by pressing LMB with cursor hovered over other vertice (or delete edge if it already exists)
+      - change selected vertice's color by clicking Color/Kolor button
+      - delete selected vertice by clicking remove vertex/usuń wierzchołek button or pressing DEL key
+      - move selected vertice while holding MouseWheelButton
+      -in order to unselect vertice click RMB on empty field on working space
+  - Language selection is enabled by clicking English/Angielski or Polski/Polish button
+  - Changing color by clicking Color/Kolor changes color of newly created vertices and the selected one
+  - You can save your graphs and load them using Save/Zapisz and Open/Wczytaj buttons, files containing graph data are saved with .graph extension 
+  - You can erase whole graph by click Erase graph/Wyczyść graf
